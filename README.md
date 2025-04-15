@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamad Muhaisen</h1>
-<h3 align="center">Hi there! My name is Mohamad Muhaisen, and I'm a recent graduate with an Honors Bachelors degree of science in computer science. I have a passion for AI, Web 3.0, backend, and web development. When I'm not coding, you can find me playing chess, gaming, or skiing. I'm excited to continue learning and growing as a developer, and I look forward to sharing my projects and experiences on GitHub.</h3>
+<h3 align="center">Hi there! My name is Mohamad Muhaisen,I'm a 42 Beirut student and a graduate with an Honors Bachelors degree of science in computer science. I have a passion for AI, Web 3.0, backend, and web development. When I'm not coding, you can find me playing chess, gaming, or skiing. I'm excited to continue learning and growing as a developer, and I look forward to sharing my projects and experiences on GitHub.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhamadmhaisen&label=Profile%20views&color=0e75b6&style=flat" alt="mhamadmhaisen" /> </p>
 
